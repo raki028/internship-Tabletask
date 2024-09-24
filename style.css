@@ -1,0 +1,31 @@
+table{
+    border-collapse: collapse;
+    margin: 0px auto;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+th {
+    border: 1px solid black;
+    padding: 15px;
+    background-color: yellow;
+   
+    
+
+}
+td {
+    border: 1px solid black;
+    padding: 10px;
+    
+
+}
+.home{
+    background-color: rgb(237, 133, 167);
+    width: 150px;
+}
+
+.time{
+    background-color: gray;
+}
